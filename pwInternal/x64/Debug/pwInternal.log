@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: Ara dizin (x64\Debug\) başka bir projeden (pwInternal.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  dllmain.cpp
+C:\Users\Hirakko\source\repos\pwInternal\pwInternal\dllmain.cpp(90,12): warning C4473: 'printf' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\Hirakko\source\repos\pwInternal\pwInternal\dllmain.cpp(90,12): message : yer tutucular ve bunların parametreleri 1 değişen sayıda bağımsız değişken bekliyor, ancak 0 tane sağlandı
+C:\Users\Hirakko\source\repos\pwInternal\pwInternal\dllmain.cpp(90,12): message : eksik 1 değişen sayıda bağımsız değişkeni '%d' biçim dizesi için gereklidir
+C:\Users\Hirakko\source\repos\pwInternal\pwInternal\dllmain.cpp(136,46): warning C4244: '=': 'uintptr_t' - 'uint32_t' dönüşümü; veri kaybı olabilir
+  pwInternal.vcxproj -> C:\Users\Hirakko\source\repos\pwInternal\x64\Debug\pwInternall.dll
